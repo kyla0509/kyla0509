@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently a rising junior at TCNJ studying CS, and aspiring web developer! I love video games, making art, and learning.
-- 📫 Reach me at: ramosk10@tcnj.edu
+- 📫 Reach me at: ramosk10@tcnj.edu or https://www.linkedin.com/in/kyla-ramos/
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I can sing the alphabet backwards!
 
