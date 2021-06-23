@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently a rising junior at TCNJ, and aspiring web developer!
+- 📫 Reach me at: ramosk10@tcnj.edu
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I can sing the alphabet backwards!
+
 <!--
 **kyla0509/kyla0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
